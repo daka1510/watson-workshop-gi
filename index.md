@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Watson Workshop - Gesellschaft für Informatik
 
 ### Agenda
 
