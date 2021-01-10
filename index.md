@@ -5,7 +5,7 @@
 ### Contacts
 
 ### Hands-On
-- Step 1 - 
+- [Test Link](./node-red-cloud)
 
 
 Demo Content
