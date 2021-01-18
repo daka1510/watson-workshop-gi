@@ -1,13 +1,16 @@
-## How can I provision a free Node-RED instance on IBM Cloud?
+## Create a Node-RED App
 
-- Access https://cloud.ibm.com/login to log in to IBM Cloud
-![](./screenshots/1.png)
+
+### Prerequisites
+- Logged in to IBM Cloud
+
+### Steps
 - Search for _Node-RED_ and select _Node-RED App_ from the search results
 ![](./screenshots/3.png)
-- Switch to the _Create_ tab and enter details as shown below (choose a nearby region)
+- Switch to the _Create_ tab and fill in the details (choose a nearby region)
 ![](./screenshots/4.png)
 ![](./screenshots/5.png)
-- Select _Deploy your app_
+- Select _Deploy your app_ (while Cloudant is set up, this button is not enabled, stay patient)
 ![](./screenshots/6.png)
 - Create an API key via the _New_ button and choose _Cloud Foundry_ as deployment target
     - Note: leave the memory allocation per instance at 256 MB to avoid that you exceed the free quota in your CloudFoundry account
@@ -38,7 +41,3 @@
 ![](./screenshots/21.png)
 ![](./screenshots/22.png)
 ![](./screenshots/23.png)
-
-Happy prototyping. 
-
-For other deployment options see also https://nodered.org/docs/getting-started/.

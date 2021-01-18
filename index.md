@@ -1,44 +1,30 @@
-## Watson Workshop - Gesellschaft für Informatik
-
+## IBM Watson Workshop - Gesellschaft für Informatik
 ### Agenda
+The workshop is scheduled for Feb 10, 5PM CET.
+| Time              | Topic                                            |
+| ----------------- | ------------------------------------------------ |
+| 5:00 PM - 5:30 PM | Introduction, Overview about IBM Watson products |
+| 5:30 PM - 6:30 PM | Hands-On Exercise                                |
+| 6:30 PM - 7:00 PM | Discussion, Q&A                                  |
 
 ### Contacts
-
+- Caroline Neumann (GI)
+- Daniel Kaulen (IBM)
+- Lena Eckstein (GI)
+- Ludger Porada (IBM)
+  
 ### Hands-On
-- [Test Link](./node-red-cloud)
+In the hands-on workshop, you will learn how to create a spoken translator with the aid of [Node-RED](https://nodered.org/) and [IBM Watson products](https://www.ibm.com/watson/products-services).
+
+#### Preparation
+*Complete below steps in advance.*
+1. Create an [IBM Cloud account](https://cloud.ibm.com/registration)
+1. Log in to your [IBM Cloud account](https://cloud.ibm.com/login)
+3. Create a [Node-RED App](./node-red-cloud)
 
 
-Demo Content
-You can use the [editor on GitHub](https://github.com/daka1510/watson-workshop-gi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Dummy content
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daka1510/watson-workshop-gi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
+#### Exercises
+*Work through below steps during the workshop (in small breakout sessions). Ask for help where needed.*
+1. [Create the Watson AI service instances](./create-watson-services)
+2. [Connect the Watson AI Services to the Node-RED App](./connect-watson-services)
+3. Follow steps 5, 6, 7 from the [IBM Developer](https://developer.ibm.com/) tutorial [Build a spoken universal translator using Node-RED and Watson AI services](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/build-universal-translator-nodered-watson-ai-services/)
