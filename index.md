@@ -1,4 +1,6 @@
 ## IBM Watson Workshop - Gesellschaft für Informatik
+TODO: add short abstract
+
 ### Agenda
 The workshop is scheduled for Feb 10, 5PM CET.
 | Time              | Topic                                            |
