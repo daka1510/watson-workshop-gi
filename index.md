@@ -1,5 +1,5 @@
 ## IBM Watson Workshop - Gesellschaft für Informatik
-TODO: add short abstract
+In this workshop you will learn more about [IBM Watson](https://www.ibm.com/watson/products-services). You will get hands-on experience with Node-RED and learn how to build a spoken translator with the aid of prebuilt Watson AI services.
 
 ### Agenda
 The workshop is scheduled for Feb 10, 5PM CET.
@@ -32,3 +32,7 @@ In the hands-on workshop, you will learn how to create a spoken translator with 
 2. [Connect the Watson AI Services to the Node-RED App](./connect-watson-services)
 3. Follow steps 5, 6, 7 from the [IBM Developer](https://developer.ibm.com/) tutorial 
    - [Build a spoken universal translator using Node-RED and Watson AI services](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/build-universal-translator-nodered-watson-ai-services/)
+   - feel free to update the language settings such that your translator translates from "German" to the language of your choice
+
+
+Special thanks to [John Walicki](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/build-universal-translator-nodered-watson-ai-services/) who originally published the [tutorial](https://developer.ibm.com/technologies/artificial-intelligence/tutorials/build-universal-translator-nodered-watson-ai-services/) we used as a basis.

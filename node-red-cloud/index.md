@@ -7,7 +7,7 @@
 ### Steps
 - Search for _Node-RED_ and select _Node-RED App_ from the search results
 ![](./screenshots/3.png)
-- Switch to the _Create_ tab and fill in the details (choose a nearby region)
+- Switch to the _Create_ tab and fill in the details (choose a nearby region, i.e. Frankfurt)
 ![](./screenshots/4.png)
 ![](./screenshots/5.png)
 - Select _Deploy your app_ (while Cloudant is set up, this button is not enabled, stay patient)
