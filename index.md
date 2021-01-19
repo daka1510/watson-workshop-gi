@@ -13,15 +13,15 @@ The workshop is scheduled for Feb 10, 5PM CET.
 ### Contacts
 - Caroline Neumann (GI)
 - Daniel Kaulen (IBM)
-- Lena Eckstein (GI)
-- Ludger Porada (IBM)
+- Lena Eckstein (IBM)
+- Ludger Porada (GI)
   
 ### Hands-On
 In the hands-on workshop, you will learn how to create a spoken translator with the aid of [Node-RED](https://nodered.org/) and [IBM Watson products](https://www.ibm.com/watson/products-services).
 
 #### Preparation
 *Complete below steps in advance.*
-1. Create an [IBM Cloud account](https://cloud.ibm.com/registration)
+1. Create a free [IBM Cloud account](https://cloud.ibm.com/registration)
 1. Log in to your [IBM Cloud account](https://cloud.ibm.com/login)
 3. Create a [Node-RED App](./node-red-cloud)
 
