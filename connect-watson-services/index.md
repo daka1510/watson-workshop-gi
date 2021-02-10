@@ -18,7 +18,7 @@ To ease the integration between the Node-RED application and the Watson services
 ![](./screenshots/2c.png)
 - Click Create
 ![](./screenshots/2d.png)
-- Wait and confirm to restarge the app
+- Wait and confirm to restage the app
 ![](./screenshots/2e.png)
 ![](./screenshots/2f.png)
 - Repeat the above steps for "Watson Language Translator" and "Watson Text to Speech"
