@@ -2,7 +2,7 @@
 In this workshop you will learn more about [IBM Watson](https://www.ibm.com/watson/products-services). You will get hands-on experience and build a spoken translator with the help of prebuilt AI services and Node-RED. Besides, you will get some insights into the life of a Data Scientist, see how AI models are created and what to consider: from data to models, from use cases to ethics. We are looking forward to meeting you! 
 
 ### Agenda
-The workshop is scheduled for Feb 10, 5PM CET.
+The workshop is scheduled for May 19, 5PM CET.
 - 5:00 PM - 5:30 PM
   - Introduction, Overview about IBM Watson products
 - 5:30 PM - 6:30 PM
