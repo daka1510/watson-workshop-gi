@@ -1,4 +1,4 @@
-## Create a Node-RED App
+## Create a Node-RED App (IBM Cloud)
 
 
 ### Prerequisites
@@ -23,12 +23,12 @@
 ![](./screenshots/11.png)
 - Switch to the _Delivery Pipeline_
 ![](./screenshots/12.png)
-- Wait until both stages (Build & Deploy) succeeded
+- Wait until the pipeline run succeeded
 ![](./screenshots/14a.png)
 ![](./screenshots/14b.png)
 - Your app is now available at the host name you specified in a previous step
 ![](./screenshots/15.png)
-- Access your Node-RED instance (e.g. https://node-red-hhz-demo.eu-gb.cf.appdomain.cloud/)
+- Access your Node-RED instance (e.g. https://node-red-demo-2021.eu-gb.mybluemix.net)
 ![](./screenshots/16.png)
 - Configure your Node-RED instance
 ![](./screenshots/17.png)
